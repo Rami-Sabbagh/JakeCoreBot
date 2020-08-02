@@ -9,6 +9,8 @@ You need:
 
 Open the repository as a project in Intellj IDEA, and build it.
 
+It'll have to download some dependencies.
+
 ## Configuring
 
 - Create a new bot using `@BotFather` on Telegram, copy the token
