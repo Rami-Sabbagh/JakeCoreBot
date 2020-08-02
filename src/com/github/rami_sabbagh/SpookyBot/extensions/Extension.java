@@ -1,4 +1,4 @@
-package com.github.ramilego4game.SpookyBot.extensions;
+package com.github.rami_sabbagh.SpookyBot.extensions;
 
 import org.telegram.abilitybots.api.bot.AbilityBot;
 import org.telegram.abilitybots.api.db.DBContext;

@@ -1,4 +1,4 @@
-package com.github.ramilego4game.SpookyBot;
+package com.github.rami_sabbagh.SpookyBot;
 
 import org.telegram.telegrambots.ApiContextInitializer;
 import org.telegram.telegrambots.bots.DefaultBotOptions;
