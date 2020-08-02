@@ -4,7 +4,7 @@ A Telegram bot I'm writing in Java, with multiple functionalities as requested b
 ## Building
 
 You need:
-- Intellj IDEA Communtiy 2020.01
+- Intellj IDEA Community 2020.01
 - Java JDK 13
 
 Open the repository as a project in Intellj IDEA, and build it.
