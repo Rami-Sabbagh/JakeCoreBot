@@ -13,7 +13,7 @@ public class JakeCoreBot extends AbilityBot {
 
     @Override
     public int creatorId() {
-        return 856875680;
+        return 856875680; //TODO: Implement a flow for setting the creator ID for new instances.
     }
 
     @SuppressWarnings("unused")
