@@ -1,4 +1,4 @@
-package com.github.rami_sabbagh.SpookyBot.extensions;
+package com.github.rami_sabbagh.JakeCoreBot.extensions;
 
 import org.telegram.abilitybots.api.bot.AbilityBot;
 import org.telegram.abilitybots.api.db.DBContext;

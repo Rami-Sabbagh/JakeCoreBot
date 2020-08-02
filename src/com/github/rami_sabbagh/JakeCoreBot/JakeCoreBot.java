@@ -1,6 +1,6 @@
-package com.github.rami_sabbagh.SpookyBot;
+package com.github.rami_sabbagh.JakeCoreBot;
 
-import com.github.rami_sabbagh.SpookyBot.extensions.*;
+import com.github.rami_sabbagh.JakeCoreBot.extensions.*;
 import org.telegram.abilitybots.api.bot.AbilityBot;
 import org.telegram.abilitybots.api.util.AbilityExtension;
 import org.telegram.telegrambots.bots.DefaultBotOptions;

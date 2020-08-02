@@ -1,4 +1,4 @@
-package com.github.rami_sabbagh.SpookyBot;
+package com.github.rami_sabbagh.JakeCoreBot;
 
 import org.telegram.telegrambots.ApiContextInitializer;
 import org.telegram.telegrambots.bots.DefaultBotOptions;
