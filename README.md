@@ -16,5 +16,5 @@ and paste it into a new file at `resources/token.txt` __without a new line or an
 - Feel free to change the bot's picture, description and about text using `@BotFather`.
 - Build the project and run it.
 - Send a message to the bot from your account, look for the chatID, it should be your user ID.
-- Edit `com.github.rami-sabbagh.SpookyBot.JakeCoreBot`, replace the creatorId in the overriden method.
+- Edit `com.github.rami_sabbagh.SpookyBot.JakeCoreBot`, replace the creatorId in the overriden method.
 - Restart the bot, and send `/updatecommands` to update the commands definition of the bot.
